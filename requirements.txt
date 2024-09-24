@@ -1,5 +1,6 @@
 Flask==2.3.2
-pandas==2.0.3
-numpy==1.25.2
-joblib==1.3.1
 calendar
+Flask>=2.3.2
+pandas>=2.0.3
+numpy
+joblib>=1.3.1
